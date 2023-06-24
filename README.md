@@ -8,7 +8,7 @@ This is a simple password generator script written in Python. This script genera
 2. Clone this repository or download the `password_generator.py` file.
 3. Open a terminal or command prompt and navigate to the directory containing the `password_generator.py` file.
 4. Run the script by executing the following command:
-5. 5. Enter the desired length for your password when prompted.
+5. Enter the desired length for your password when prompted.
 6. Enter the number of passwords you want to generate when prompted.
 7. The script will generate and display the requested number of passwords.
 
